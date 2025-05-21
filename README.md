@@ -47,7 +47,7 @@ Access the application in your browser at `http://localhost:8501`
 
 ## Project Structure
 
-- `mini_rag_assistant.py`: Core functionality for document processing and question answering
+- `app.py`: Core functionality for document processing and question answering
 - `ui.py`: Streamlit user interface
 - `OAI_CONFIG_LIST.json`: Configuration for OpenAI API
 - `.env.example`: Example environment variables file
