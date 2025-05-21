@@ -23,7 +23,7 @@ A retrieval-augmented generation (RAG) system that answers questions based on yo
 
 1. Clone this repository:
    ```
-   git clone https://github.com/sid0702/mini-rag-assistant.git
+   git clone https://github.com/Sid0702/Mini-RAG.git
    cd mini-rag-assistant
    ```
 
